@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "9c3a9cc2f157556f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfb9786e74178dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6165ac57085297ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1ada2c5aa186d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e7e27e5762c48f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5cc2104131901e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc393ae40ef351c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "068ded5488210c1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1f367704e3c5cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e346771cd0b1df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b7343931a7e265",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd389c1d1353ba0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "887de36634f91da2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25cf8dcd97d7ddc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6165ac57085297ef",
+  "lastOpenFiles": [
+    "lad.md",
+    "Digital Garden/Setup.md",
+    "GDPR & CCPA/Basics GDPR.md",
+    "Angular/RxJs.md"
+  ]
+}
