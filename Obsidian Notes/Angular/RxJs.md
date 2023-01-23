@@ -3,7 +3,7 @@
 [RxJS Marbles](https://rxmarbles.com/)
 
 - map
-	```
+	```javascript
 	import { fromEvent, interval, withLatestFrom } from 'rxjs';
 	const clicks = fromEvent(document, 'click');
 	const timer = interval(1000);
