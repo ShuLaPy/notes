@@ -11,15 +11,15 @@ mongodump --uri="mongodb://mongodb0.example.com:27017" --db="integration" --out=
 
 `--uri=<connectionString>`
 
-	Connection string for database
+Connection string for database
 
 `--db=<database>, -d=<database>`
 
-	Specifies a database to backup. If you do not specify a database, `mongodump` copies all databases in this instance into the dump files.
+Specifies a database to backup. If you do not specify a database, `mongodump` copies all databases in this instance into the dump files.
 
 `--out=<path>, -o=<path>`
 
-	Specifies the directory where `mongodump` will write [BSON](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-BSON) files for the dumped databases. By default, [`mongodump`](https://www.mongodb.com/docs/database-tools/mongodump/#mongodb-binary-bin.mongodump) saves output files in a directory named `dump` in the current working directory.
+Specifies the directory where `mongodump` will write [BSON](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-BSON) files for the dumped databases. By default, [`mongodump`](https://www.mongodb.com/docs/database-tools/mongodump/#mongodb-binary-bin.mongodump) saves output files in a directory named `dump` in the current working directory.
 
 ---
 **Restore Database:**
@@ -30,15 +30,15 @@ mongorestore --uri="mongodb://mongodb0.example.com:27017" --db="tenjin-dev" --di
 
 `--uri=<connectionString>`
 
-	Connection string for database
+Connection string for database
 
 `--db=<database>, -d=<database>`
 
-	Specifies the destination database for [`mongorestore`](https://www.mongodb.com/docs/database-tools/mongorestore/#std-program-mongorestore) to restore data _into_ when restoring from a BSON file. If the database does not exist, [`mongorestore`](https://www.mongodb.com/docs/database-tools/mongorestore/#std-program-mongorestore) creates the database.
+Specifies the destination database for [`mongorestore`](https://www.mongodb.com/docs/database-tools/mongorestore/#std-program-mongorestore) to restore data _into_ when restoring from a BSON file. If the database does not exist, [`mongorestore`](https://www.mongodb.com/docs/database-tools/mongorestore/#std-program-mongorestore) creates the database.
 
 `--dir=string`
 
-	Specifies the dump directory.
+Specifies the dump directory.
 
 
 
