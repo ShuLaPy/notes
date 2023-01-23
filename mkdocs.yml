@@ -10,6 +10,8 @@ site_author: Shubham Lad
 
 theme:
   name: material
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.png
   custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -57,6 +59,12 @@ extra:
       link: https://github.com/ShuLaPy
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ShuLaPy_
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/shubhamlad/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@zeuada
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/shubhintech/
 
 markdown_extensions:
   - admonition
@@ -75,4 +83,4 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
