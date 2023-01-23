@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Garden/Setup.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a99f1e6b3ca1b8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/MongoDB/Backup and Restore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Garden/Setup.md",
+                "file": "Database/MongoDB/Backup and Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Garden/Setup.md",
+                "file": "Database/MongoDB/Backup and Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Garden/Setup.md"
+                "file": "Database/MongoDB/Backup and Restore.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6165ac57085297ef",
+  "active": "a99f1e6b3ca1b8c1",
   "lastOpenFiles": [
     "index.md",
-    "lad.md",
-    "Digital Garden/Setup.md",
     "GDPR & CCPA/Basics GDPR.md",
+    "Digital Garden/Setup.md",
+    "lad.md",
     "Angular/RxJs.md"
   ]
 }
