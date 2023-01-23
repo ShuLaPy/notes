@@ -6,13 +6,17 @@ This is my digtal garden where I publish my all personal notes for my reference 
 ### My Links
 ---
 **Protfolio**: https://shubhamlad.in
+
 	To know more about me 😉
 
 **Blog**: https://blog.shubhamlad.in
+
 	Here I share detailed articles on various technologies that I work or worked.
 
 **Notes**: https://notes.shubhamlad.in
+
 	This Digital Garden
 
 **Youtube**: https://www.youtube.com/@zeuada
+
 	Here I create technical videos to share my knowledge, learning with everyone. Still new to this video explanation but imroving each day.
