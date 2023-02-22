@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffa9e23c90e5a931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDPR & CCPA/MongoDB Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md",
+                "file": "GDPR & CCPA/MongoDB Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md",
+                "file": "GDPR & CCPA/MongoDB Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md"
+                "file": "GDPR & CCPA/MongoDB Architecture.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e475b0e34d58ec85",
+  "active": "ffa9e23c90e5a931",
   "lastOpenFiles": [
+    "GDPR & CCPA/Basics GDPR.md",
+    "GDPR & CCPA/MongoDB Architecture.md",
+    "Database/MongoDB/Backup and Restore.md",
     "Angular/RxJs.md",
     "Digital Garden/Setup.md",
     "Docuseries and Books/The Mind - Explained.md",
-    "Database/MongoDB/Backup and Restore.md",
     "Pasted image 20230222004624.png",
     "assets/images/the_mind_explained/barin_memory.png",
-    "GDPR & CCPA/Basics GDPR.md",
     "lad.md",
-    "Git/Git Tricks.md",
-    "Digital Garden/Portfolio/Design.md"
+    "Git/Git Tricks.md"
   ]
 }
