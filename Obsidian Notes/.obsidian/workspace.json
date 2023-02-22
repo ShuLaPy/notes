@@ -11,8 +11,12 @@
             "id": "e475b0e34d58ec85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Docuseries and Books/The Mind - Explained.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docuseries and Books/The Mind - Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docuseries and Books/The Mind - Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docuseries and Books/The Mind - Explained.md"
+              }
             }
           }
         ]
@@ -140,14 +148,14 @@
   },
   "active": "e475b0e34d58ec85",
   "lastOpenFiles": [
+    "Angular/RxJs.md",
+    "Digital Garden/Setup.md",
     "Docuseries and Books/The Mind - Explained.md",
     "Database/MongoDB/Backup and Restore.md",
     "Pasted image 20230222004624.png",
     "assets/images/the_mind_explained/barin_memory.png",
-    "Angular/RxJs.md",
     "GDPR & CCPA/Basics GDPR.md",
     "lad.md",
-    "Digital Garden/Setup.md",
     "Git/Git Tricks.md",
     "Digital Garden/Portfolio/Design.md"
   ]

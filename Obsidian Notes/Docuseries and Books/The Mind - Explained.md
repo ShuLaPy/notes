@@ -1,4 +1,4 @@
-# Memories
+## Memories
 
 ![[barin_memory.png]]
 
@@ -24,4 +24,4 @@ It allows us to troubleshoot upcoming experiences, to think through the ways in 
 
 And some scientists say the simulation engine between your ears does something even more profound It weaves together memories of the past and dreams of the future to create your sense of self.
 
-# Dreams
+## Dreams
