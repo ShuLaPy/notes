@@ -25,7 +25,7 @@ Specifies the directory where `mongodump` will write [BSON](https://www.mongo
 **Restore Database:**
 
 ```
-mongorestore --uri="mongodb://mongodb0.example.com:27017" --db="tenjin-dev" --dir="/Users/shubham/Desktop/databackup/audict-dev"
+mongorestore --uri="mongodb://mongodb0.example.com:27017" --db="audict-dev" --dir="/Users/shubham/Desktop/databackup/audict-dev"
 ```
 
 `--uri=<connectionString>`

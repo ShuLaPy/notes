@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3e53f96a20385c",
+        "id": "2e1c15d6150daaaa",
         "type": "tabs",
         "children": [
           {
-            "id": "070b64d60c6c1fe6",
+            "id": "e475b0e34d58ec85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MongoDB/Backup and Restore.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/MongoDB/Backup and Restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/MongoDB/Backup and Restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/MongoDB/Backup and Restore.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "070b64d60c6c1fe6",
+  "active": "e475b0e34d58ec85",
   "lastOpenFiles": [
-    "index.md",
-    "Angular/RxJs.md",
+    "Docuseries and Books/The Mind - Explained.md",
     "Database/MongoDB/Backup and Restore.md",
+    "Pasted image 20230222004624.png",
+    "assets/images/the_mind_explained/barin_memory.png",
+    "Angular/RxJs.md",
     "GDPR & CCPA/Basics GDPR.md",
+    "lad.md",
     "Digital Garden/Setup.md",
-    "lad.md"
+    "Git/Git Tricks.md",
+    "Digital Garden/Portfolio/Design.md"
   ]
 }

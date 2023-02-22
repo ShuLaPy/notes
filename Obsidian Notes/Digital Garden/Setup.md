@@ -5,9 +5,3 @@
 - **Github Actions** - for building and deploying to github pages
 - **Github Pages** - Hosting digital garden
 - **Google Drive** - To Synch Obsidian notes across devices for free
-
-
-
-
-[[Basics GDPR]]
-[Shubhan](lad)
