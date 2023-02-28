@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDPR & CCPA/MongoDB Architecture.md",
+                "file": "Docuseries and Books/The Mind - Explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDPR & CCPA/MongoDB Architecture.md",
+                "file": "Docuseries and Books/The Mind - Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDPR & CCPA/MongoDB Architecture.md",
+                "file": "Docuseries and Books/The Mind - Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDPR & CCPA/MongoDB Architecture.md"
+                "file": "Docuseries and Books/The Mind - Explained.md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "ffa9e23c90e5a931",
   "lastOpenFiles": [
-    "GDPR & CCPA/Basics GDPR.md",
     "GDPR & CCPA/MongoDB Architecture.md",
+    "Docuseries and Books/The Mind - Explained.md",
+    "GDPR & CCPA/Basics GDPR.md",
     "Database/MongoDB/Backup and Restore.md",
     "Angular/RxJs.md",
     "Digital Garden/Setup.md",
-    "Docuseries and Books/The Mind - Explained.md",
     "Pasted image 20230222004624.png",
     "assets/images/the_mind_explained/barin_memory.png",
     "lad.md",

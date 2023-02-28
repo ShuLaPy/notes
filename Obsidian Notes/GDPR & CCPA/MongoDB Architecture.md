@@ -29,5 +29,6 @@ Shards deployed on this data center are assigned to the `NA` zone.
     Without zone ranges, MongoDB will still distribute the data across the shards based on the shard key values, but it may not distribute the data evenly across the zones. In some cases, this can result in one zone becoming overloaded with data while another zone has relatively little data.
 
 
+## Global Cluster
 
 ## Client-Side Field Level Encryption
