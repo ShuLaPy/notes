@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b95a317d54485c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/MongoDB/CheetSheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md",
+                "file": "Database/MongoDB/CheetSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md",
+                "file": "Database/MongoDB/CheetSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docuseries and Books/The Mind - Explained.md"
+                "file": "Database/MongoDB/CheetSheet.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffa9e23c90e5a931",
+  "active": "b95a317d54485c93",
   "lastOpenFiles": [
-    "GDPR & CCPA/MongoDB Architecture.md",
     "Docuseries and Books/The Mind - Explained.md",
+    "Database/MongoDB/CheetSheet.md",
+    "GDPR & CCPA/MongoDB Architecture.md",
     "GDPR & CCPA/Basics GDPR.md",
     "Database/MongoDB/Backup and Restore.md",
     "Angular/RxJs.md",
