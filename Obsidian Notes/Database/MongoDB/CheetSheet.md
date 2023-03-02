@@ -53,3 +53,28 @@ Using [Dot Notation](http://docs.mongodb.org/manual/core/document/#dot-notation)
 db.people.update({ }, { $set: { "address.street": "Main Street" } })
 ```
 
+### Rename field in collections
+
+Rename one field
+
+```javascript
+db.collection.updateMany({}, {$rename:{"oldField":"newField"}}, { upsert: false, multi: true })
+```
+
+Rename multiple Field
+
+```javascript
+db.collection.updateMany({}, {$rename:{"old1":"new1", "old2":"new2"}}, { upsert: false, multi: true })
+```
+
+Rename Subfield
+
+```javascript
+db.collection.updateMany({}, {$rename:{"field.oldSub":"field.newSub"}}, { upsert: false, multi: true })
+```
+
+Or to just update the docs which contain the property
+
+```javascript
+db.collection.updateMany({ "field.oldSub": { $exists: true } }, {$rename:{"field.oldSub":"field.newSub"}}, { upsert: false, multi: true })
+```
