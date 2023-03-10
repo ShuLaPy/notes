@@ -1,14 +1,19 @@
-## What is Machine Learning?
+# What is Machine Learning?
 
 Machine learning is a subfield of artificial intelligence, which is broadly defined as **the capability of a machine to imitate intelligent human behavior**. Artificial intelligence systems are used to perform complex tasks in a way that is similar to how humans solve problems.
 
+
 ![[ai_ml_data.png]]
 ![[ml_recipe.png]]
+
 Machine learning algorithm starts with the input and output and try to fgure out the steps to acheive that output. It's based on the trial and error, ML will try this 1000 times to get the closets result.
+
 ![[data_science.png]]
+
 **Data analysis** is looking into the data we have, analysing it, visualising in terms of different graphs and plots. In other hand **Data Science** is get some actionable output out of this data.
 
 **Subtypes:**
+
 - Supervised 
 	- classification
 	- regression
@@ -30,7 +35,9 @@ In supervised learning, the training data provided to the machines work as the s
 
 In supervised learning, models are trained using labelled dataset, where the model learns about each type of data. Once the training process is completed, the model is tested on the basis of test data (a subset of the training set), and then it predicts the output.
 
+
  ![Supervised Learning](https://static.javatpoint.com/tutorial/machine-learning/images/supervised-machine-learning.png)
+ 
  _In the real-world, supervised learning can be used for **Risk Assessment, Image classification, Fraud Detection, spam filtering**, etc._
 
 ### 1. Classification
@@ -72,10 +79,13 @@ Unsupervised learning is much similar as a human learns to think by their own ex
 
 **Example:** Suppose we have data of the customers order history, and now the marketing team want to send summer promotion eamils to customers but not everyone will be interested in summer clothes so now you run the unsupervised algorithm on this data and you noticed two groups, one who buys only on summer time and one who buys in winter time and you labeled them winter customers and summer customers and in this way we saved sending 1000s of unwanted emails.
 
+
 ![[unsupervised.png]]
 
 **another example**
+
 ![Unsupervised learning](https://static.javatpoint.com/tutorial/machine-learning/images/unsupervised-machine-learning-1.png)
+
 **unsupervised learning algorithms:**
 
 - K-means clustering
@@ -111,5 +121,29 @@ Since there is no labeled data, so the agent is bound to learn by its experience
 ![reinforcement learning](https://static.javatpoint.com/tutorial/reinforcement-learning/images/what-is-reinforcement-learning.png)
 
 
-## Machine Learning Framework
-![[ml_framework.png]]
+
+
+# Types of Data
+
+- **Structured**
+	Structured data is in the form of csv, excel or sql data which follows structure.
+
+- **Unstructured**
+	Unstructured data includes images, video, audio, eamils etc. which actually doesn’t have any structure we can convert this into numbers and structure them but the image of one dog is different with another dog.
+
+Above data contains sub data types
+- **Static**
+	data that doesn't change over time
+	example - heart disease patient data
+- **Streaming**
+	data that constantly change over time
+	example - predict stock price based on news headlines which changes constantly.
+
+!!! info "💡"
+
+    The more data the better
+
+
+# Data Science Workflow
+
+![[data_science_workflow.png]]

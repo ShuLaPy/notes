@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3085b098e2eb5ea4",
+        "id": "1898c161208e861f",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3a1c96921b1220",
+            "id": "1cf5b81389747f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e5cc2104131901e",
+  "active": "1cf5b81389747f21",
   "lastOpenFiles": [
+    "Machine Learning/Framework.md",
+    "Machine Learning/Basics.md",
+    "assets/images/machine_learning/data_science_workflow.png",
+    "GDPR & CCPA/MongoDB Architecture.md",
+    "GDPR & CCPA/Basics GDPR.md",
+    "Docuseries and Books/The Mind - Explained.md",
+    "Database/MongoDB/Backup and Restore.md",
+    "Database/MongoDB/CheetSheet.md",
     "assets/images/machine_learning/reinforcement.png",
     "assets/images/machine_learning/unsupervised.png",
     "Pasted image 20230310234119.png",
@@ -157,18 +165,11 @@
     "assets/images/machine_learning/ml_recipe.png",
     "assets/images/machine_learning",
     "assets/images/machine_learning/ai_ml_data.png",
-    "Machine Learning/Basics.md",
     "Machine Learning",
-    "Docuseries and Books/The Mind - Explained.md",
     "Git/Git Tricks.md",
-    "Database/MongoDB/CheetSheet.md",
-    "GDPR & CCPA/MongoDB Architecture.md",
-    "GDPR & CCPA/Basics GDPR.md",
-    "Database/MongoDB/Backup and Restore.md",
     "Angular/RxJs.md",
     "Digital Garden/Setup.md",
     "Pasted image 20230222004624.png",
-    "assets/images/the_mind_explained/barin_memory.png",
     "lad.md"
   ]
 }
