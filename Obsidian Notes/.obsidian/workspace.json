@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1898c161208e861f",
+        "id": "8fcb0081ecaae382",
         "type": "tabs",
         "children": [
           {
-            "id": "1cf5b81389747f21",
+            "id": "4c88e4566705950d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basics.md",
+                "file": "Machine Learning/Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Basics.md",
+                "file": "Machine Learning/Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Basics.md",
+                "file": "Machine Learning/Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Basics.md"
+                "file": "Machine Learning/Framework.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cf5b81389747f21",
+  "active": "0e5cc2104131901e",
   "lastOpenFiles": [
-    "Machine Learning/Framework.md",
+    "assets/images/machine_learning/sub-features.png",
+    "assets/images/machine_learning/features.png",
     "Machine Learning/Basics.md",
+    "Machine Learning/Framework.md",
+    "assets/images/machine_learning/ml_framework.png.sb-9e81dd1b-owbv92",
+    "assets/images/machine_learning/ml_framework.png",
     "assets/images/machine_learning/data_science_workflow.png",
     "GDPR & CCPA/MongoDB Architecture.md",
     "GDPR & CCPA/Basics GDPR.md",
@@ -160,7 +164,6 @@
     "assets/images/machine_learning/unsupervised.png",
     "Pasted image 20230310234119.png",
     "Pasted image 20230310234040.png",
-    "assets/images/machine_learning/ml_framework.png",
     "assets/images/machine_learning/data_science.png",
     "assets/images/machine_learning/ml_recipe.png",
     "assets/images/machine_learning",
@@ -169,7 +172,6 @@
     "Git/Git Tricks.md",
     "Angular/RxJs.md",
     "Digital Garden/Setup.md",
-    "Pasted image 20230222004624.png",
     "lad.md"
   ]
 }

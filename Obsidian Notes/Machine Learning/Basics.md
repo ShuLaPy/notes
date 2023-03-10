@@ -143,7 +143,3 @@ Above data contains sub data types
 
     The more data the better
 
-
-# Data Science Workflow
-
-![[data_science_workflow.png]]
