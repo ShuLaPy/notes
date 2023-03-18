@@ -808,10 +808,10 @@ def some_func():
 
 **scope rule**
 
-#1 - Start with local
-#2 - Parent local
-#3 - Global
-#4 - Built-in python
+1 - Start with local
+2 - Parent local
+3 - Global
+4 - Built-in python
 
 ```python
 a = 1 # global scope
