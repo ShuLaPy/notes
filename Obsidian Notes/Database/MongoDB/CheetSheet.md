@@ -78,3 +78,17 @@ Or to just update the docs which contain the property
 ```javascript
 db.collection.updateMany({ "field.oldSub": { $exists: true } }, {$rename:{"field.oldSub":"field.newSub"}}, { upsert: false, multi: true })
 ```
+
+
+
+
+
+```javascript
+db.userMessage.updateMany({}, [{ $set: { "relationships.data.assignedto": "$attributes.assignedto" }}])
+```
+
+
+
+```javascript
+db.userMessage.updateMany({}, {$unset: { "attributes.assignedto" : 1 }} , { upsert: false, multi: true })
+```

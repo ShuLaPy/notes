@@ -116,5 +116,35 @@ Sample scenario will be same as CRUD
 
 !!! tip Detailed overview of exam
 
-	![[https://learn.mongodb.com/learn/course/mongodb-associate-developer-exam-study-guide/main/associate-dba-exam-study-guide]]
+	https://learn.mongodb.com/learn/course/mongodb-associate-developer-exam-study-guide/main/associate-dba-exam-study-guide
+
+
+
+---
+
+Cursor, toArray
+
+tokenization `{  "mappings": {    "dynamic": false,    "fields": {         "name": [   {  "type": "autocomplete",                              "tokenization": "edgeGram"} ]    } }}`
+
+tokenization algorithms
+
+MongoDB atlas search `db.restaurants.aggregate([{    "$search": {      "text": { "path": "name", "query": "cuban"}    } }])`
+
+Atlas search index
+
+All aggregation pipelines
+
+`getSiblingDB`
+
+upsert and other options
+
+All CRUD operations, what every query return keep eye on that also
+
+index in reverse, effects of index on search and sort, indexes on array
+
+Pooling in nodejs, mongoclient
+
+Syntax
+
+Schema types and designs
 

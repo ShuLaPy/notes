@@ -2,8 +2,8 @@
 
 Machine learning is a subfield of artificial intelligence, which is broadly defined as **the capability of a machine to imitate intelligent human behavior**. Artificial intelligence systems are used to perform complex tasks in a way that is similar to how humans solve problems.
 
+![image](https://drive.google.com/uc?export=view&id=1Rlo-BoSQoMdaDFBwxKNyoT84mENpf52W)
 
-![[ai_ml_data.png]]
 ![[ml_recipe.png]]
 
 Machine learning algorithm starts with the input and output and try to fgure out the steps to acheive that output. It's based on the trial and error, ML will try this 1000 times to get the closets result.
@@ -144,7 +144,7 @@ Above data contains sub data types
     The more data the better
 
 
-??? tip
+???+ tip
 
 	Check this [[Framework]] of Machine Learning
 
