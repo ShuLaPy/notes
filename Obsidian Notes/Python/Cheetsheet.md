@@ -1,4 +1,4 @@
-#### Data Types:
+### Data Types:
 
 -   **Numeric data types**: _int, float, complex_
 -   **String data types**: _str_
@@ -15,7 +15,7 @@ Check data type with `type()`
 <class 'float'>
 ```
 
-#### Arithmetic Operators
+### Arithmetic Operators
 | Operator | Description | Syntax |
 | ----     | ---- | ---- |
 | +        | Addition: adds two operands | x + y |
@@ -49,7 +49,7 @@ pi = float(pi)
 `+=`,  `-=`,  `/=`,  `*=`,  `//=`
 
 
-#### Python Math Functions
+### Python Math Functions
 
 ```python
 # Basic Functions
@@ -64,18 +64,18 @@ hex(512)       # '0x200' --> hexadecimal format
 https://www.w3schools.com/python/module_math.asp
 
 
-#### Operator Precedence 
+### Operator Precedence 
 
 `() --> ** --> * or / --> + or -`
 
-#### Tips
+### Tips
 - `bin()` return binary representation
 - `int('0b101', 2)` will convert to integer
 - follow snake_case and it's case sensitive
 - `_` signifies private in python (ex: `_user_id`)
 
 
-#### String
+### String
 use three \` to write multiline string
 
 **String Concatenation**
@@ -171,7 +171,7 @@ p = bool(word.find(word[::-1]) + 1)
 print(p) # True
 ```
 
-#### List
+### List
 
 List can contain any/combination of type
 
@@ -316,7 +316,7 @@ sorted_by_key = sorted([
                        key=lambda el: (el['name']))# [{'name': 'Andy', 'age': 18}, {'name': 'Bina', 'age': 30}, {'name': 'Zoey', 'age': 55}]
 ```
 
-#### Dictionary
+### Dictionary
 
 ```python
 >>> user = {
@@ -372,7 +372,7 @@ for name, langs in programmers.items():
       print('\t' + lang)
 ```
 
-#### Tuples
+### Tuples
 
 Tuples is immutable and they are faster than list
 
@@ -403,7 +403,7 @@ Tuples is immutable and they are faster than list
 >>> unzip(z)
 ```
 
-#### Sets
+### Sets
 
 Set's store and return only `unique` element
 
@@ -449,7 +449,7 @@ Set's store and return only `unique` element
 >>> my_set.issuperset(your_set) #return boolen - if my_set contains your_set
 ```
 
-#### Conditional Logic
+### Conditional Logic
 
 ```python
 age = 26
@@ -516,7 +516,7 @@ any([False, True, False])# True if at least one item in collection is truthy, Fa
 all([True,1,3,True])     # True if all items in collection are true
 ```
 
-#### For Loops
+### For Loops
 
 ```python
 for item in (1,2,3,4,5):
@@ -584,7 +584,7 @@ counter = Counter(colors)# Counter({'blue': 3, 'red': 2, 'yellow': 1})
 counter.most_common()[0] # ('blue', 3)
 ```
 
-#### While Loops
+### While Loops
 
 ```python
 i = 0
@@ -653,7 +653,7 @@ for value in some_list:
 print(duplicates)
 ```
 
-#### Functions
+### Functions
 
 define functions first and then only call it or else python will give an error
 
@@ -795,7 +795,7 @@ def multiply_by_2(li):
 multiply_by_2()
 ```
 
-#### Scopes
+### Scopes
 
 ```python
 
@@ -856,7 +856,7 @@ outer()
 # outer: nonlocal
 ```
 
-#### Important built in functions
+### Important built in functions
 
 **map**
 
@@ -918,7 +918,7 @@ reduce(accumulator, my_list, 0)
 # 6
 ```
 
-#### Comprehensions
+### Comprehensions
 
 **List comprehensions**
 
@@ -960,7 +960,7 @@ some_list = ['a', 'b', 'c', 'b', 'd', 'm', 'n', 'n']
 duplicates = list(set([x for x in some_list if simple_list.count(x) > 1]))
 ```
 
-#### Modules
+### Modules
 
 ```python
 # main.py
@@ -980,7 +980,7 @@ def devide(num1, num2):
 	return num1 / num2
 ```
 
-#### Packages
+### Packages
 
 package is a folder containing modules
 
@@ -1041,7 +1041,7 @@ from <module_name> import <function_name> as m_function
 from <module_name> import *
 ```
 
-#### Generators
+### Generators
 
 **Convenient way to implement the iterator protocol.**
 
@@ -1058,7 +1058,7 @@ def count(start, step):
 (10, 12, 14)
 ```
 
-#### Decorators
+### Decorators
 
 A decorator takes a function, adds some functionality and returns it.
 
@@ -1088,7 +1088,7 @@ def add(x, y):
 - `wraps` is a helper decorator that copies `metadata` of function `add()` to function `out()`.
 - Without it `'add.__name__'` would return `'out'`.
 
-#### Class
+### Class
 
 User defined objects are created using the class keyword
 
@@ -1132,7 +1132,7 @@ MRO determines the order in which parent classes are traversed when searching fo
 [<class 'C'>, <class 'A'>, <class 'B'>, <class 'object'>]
 ```
 
-#### Exception
+### Exception
 
 ```python
 try:
@@ -1169,7 +1169,7 @@ finally:
   print('All done!')
 ```
 
-#### Command Line Arguments
+### Command Line Arguments
 
 ```python
 import sys
@@ -1177,7 +1177,7 @@ script_name = sys.argv[0]
 arguments   = sys.argv[1:]
 ```
 
-#### File
+### File
 
 **File IO**
 
@@ -1234,7 +1234,7 @@ def append_to_file(filename, text):
 ```
 
 
-#### Useful Libraries
+### Useful Libraries
 
 **CSV**
 
