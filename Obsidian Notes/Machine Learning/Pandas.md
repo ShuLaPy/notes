@@ -1,5 +1,7 @@
 [Practice NoteBook](https://github.com/ShuLaPy/ml-ds-learning/blob/main/pandas/Pandas%20Introduction.ipynb)
 
+[Exercise NoteBook](https://github.com/ShuLaPy/ml-ds-learning/blob/main/pandas/pandas-exercises.ipynb)
+
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures.
 
 This tool is essentially your data’s home. Through pandas, you get acquainted with your data by cleaning, transforming, and analyzing it.
@@ -427,7 +429,7 @@ car_sales[car_sales["Odometer (KM)"] > 100000]
 
 ### Exernal Resources
 ---
-[Detailed NoteBook](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
-[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
-[Essential basic functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
+- [Detailed NoteBook](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
+- [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [Essential basic functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
 
