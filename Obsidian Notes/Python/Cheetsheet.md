@@ -1359,4 +1359,5 @@ from dateutil.tz import UTC, tzlocal, gettz
 
 ####
 ---
-[Python Detailed CheetSheet](https://github.com/gto76/python-cheatsheet)
+- [Python Detailed CheetSheet](https://github.com/gto76/python-cheatsheet)
+- [Comprehensive CheetSheet](https://www.pythoncheatsheet.org)

@@ -432,4 +432,5 @@ car_sales[car_sales["Odometer (KM)"] > 100000]
 - [Detailed NoteBook](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - [Essential basic functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
+- [Pandas CheetSheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
