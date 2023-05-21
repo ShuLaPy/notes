@@ -1,5 +1,5 @@
 ---
-use_secret: ENCRYPTCONTENT_PASSWORD
+password: masterdsandalgo
 ---
 
 ## Learn Common DataStructures and Algorithms
