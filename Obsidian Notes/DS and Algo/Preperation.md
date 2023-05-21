@@ -1,3 +1,7 @@
+---
+use_secret: 'ENCRYPTCONTENT_PASSWORD'
+---
+
 ## Learn Common DataStructures and Algorithms
 
 [**Data Structures**](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/#study-guides-list)
