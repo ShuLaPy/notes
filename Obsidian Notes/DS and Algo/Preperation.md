@@ -5,6 +5,9 @@ password: masterdsandalgo
 ## Learn Common DataStructures and Algorithms
 
 [**Data Structures**](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/#study-guides-list)
+
+Data structures are your weapons. Choosing the right weapon for the right battle is the key to victory. Be very familiar about the strengths of each data structure and the time complexities for its various operations.
+
 | Topic               |Priority|
 |---------------------|--------|
 |Array                |High    |
@@ -26,7 +29,8 @@ password: masterdsandalgo
 |Math                 |Low     |
 |Geometry             |Low     |
 
-Also
+Also,
+
 1. Time Complexity
 2. Bit Manipulation 
 3. Hashing
