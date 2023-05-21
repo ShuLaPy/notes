@@ -1,5 +1,5 @@
 ---
-use_secret: 'secrets.ENCRYPTCONTENT_PASSWORD'
+use_secret: 'ENCRYPTCONTENT_PASSWORD'
 ---
 
 ## Learn Common DataStructures and Algorithms
