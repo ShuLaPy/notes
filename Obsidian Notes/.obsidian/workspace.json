@@ -11,8 +11,12 @@
             "id": "4dfab8a0a0fb6c2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering/Data Warehouse.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(TO DO) Projects/Interview Platform.md",
+                "file": "Data Engineering/Data Warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(TO DO) Projects/Interview Platform.md",
+                "file": "Data Engineering/Data Warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(TO DO) Projects/Interview Platform.md"
+                "file": "Data Engineering/Data Warehouse.md"
               }
             }
           }
@@ -152,10 +156,12 @@
   },
   "active": "0e5cc2104131901e",
   "lastOpenFiles": [
+    "Data Engineering/Data Warehouse.md",
+    "Data Engineering",
+    "(TO DO) Projects/Interview Platform.md",
     "(TO DO) Projects/Express.md",
     "index.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Task - DOCS.md",
     "Pasted image 20240315002331.png",
     "Pasted image 20240315002328.png",
@@ -177,7 +183,6 @@
     "AWS/AWS Notes.md",
     "assets/images/AWS/s3FileStructure.png",
     "assets/images/AWS",
-    "(TO DO) Projects/Interview Platform.md",
     "Database/MongoDB/CheetSheet.md",
     "Database/MongoDB/Certification.md",
     "Database/MongoDB/Backup and Restore.md",
@@ -195,7 +200,6 @@
     "(TO DO) Projects",
     "DS and Algo/Data Structure CheetSheets/Basics",
     "DS and Algo/Data Structure CheetSheets",
-    "DS and Algo",
-    "SpringBoot"
+    "DS and Algo"
   ]
 }
