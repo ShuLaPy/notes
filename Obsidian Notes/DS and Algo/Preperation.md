@@ -2,7 +2,7 @@
 password: masterdsandalgo
 ---
 
-## Learn Common DataStructures and Algorithms
+## Learn Common Data Structures and Algorithms
 
 [**Data Structures**](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/#study-guides-list)
 
@@ -72,7 +72,7 @@ See [Leetcode patterns and ROI](https://www.designgurus.io/blog/top-lc-patterns)
 Use [LeetCode](https://leetcode.com/problemset/all/) for practice
 
 
-## 3.5 months plan (14 hours a week)
+## 4.5 months plan (14 hours a week)
 
 **1. Breadth-first preparation** - Revise every topic and then start practicing a variety of questions across all topics. This strategy is recommended if you have around a month to spare.
 

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1edf20c2acb11dd",
+        "id": "da56674f40aa4db9",
         "type": "tabs",
         "children": [
           {
-            "id": "6edbfc7c8825d850",
+            "id": "4dfab8a0a0fb6c2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS and Algo/Preperation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30a41754809f5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MongoDB/Backup and Restore.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c1f367704e3c5cad",
@@ -105,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Preperation.md",
+                "file": "(TO DO) Projects/Interview Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Preperation.md",
+                "file": "(TO DO) Projects/Interview Platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Preperation.md"
+                "file": "(TO DO) Projects/Interview Platform.md"
               }
             }
           }
@@ -166,49 +150,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6edbfc7c8825d850",
+  "active": "0e5cc2104131901e",
   "lastOpenFiles": [
+    "(TO DO) Projects/Express.md",
+    "index.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Task - DOCS.md",
+    "Pasted image 20240315002331.png",
+    "Pasted image 20240315002328.png",
+    "Pasted image 20240315002327.png",
+    "Pasted image 20240315002323.png",
+    "Learning from mistakes - Revert the changes from the branch..md",
+    "Interview Question.md",
+    "Interview Questions.md",
+    "AWS/S3.md",
+    "AWS/SAA - Udemy/Intro.md",
+    "AWS/SAA - Udemy",
+    "assets/images/AWS/bucket-condition.png",
+    "assets/images/AWS/bucket-policy.png",
+    "Database/PostgreSQL/Query.md",
+    "assets/images/database/select-statement.png",
+    "assets/images/database/sql_commands.png",
+    "Database/Bitcask Storage Engine.md",
+    "Database/PostgreSQL",
+    "AWS/AWS Notes.md",
+    "assets/images/AWS/s3FileStructure.png",
+    "assets/images/AWS",
+    "(TO DO) Projects/Interview Platform.md",
+    "Database/MongoDB/CheetSheet.md",
+    "Database/MongoDB/Certification.md",
     "Database/MongoDB/Backup and Restore.md",
     "DS and Algo/Preperation.md",
+    "DS and Algo/Data Structure CheetSheets/Introduction to Problem Solving.md",
+    "DS and Algo/Data Structure CheetSheets/Basics/Time Complexity.md",
+    "DS and Algo/Data Structure CheetSheets/Basics/Array.md",
+    "To Be Learnt.md",
+    "Interview Guide.md",
+    "AWS Certified Solutions Architect - Associate (SAA-C03) - Final.md",
+    "Pasted image 20240305122107.png",
+    "AWS Certified Solutions Architect - Associate (SAA-C03).md",
+    "~/Downloads",
+    "~",
+    "(TO DO) Projects",
+    "DS and Algo/Data Structure CheetSheets/Basics",
+    "DS and Algo/Data Structure CheetSheets",
     "DS and Algo",
-    "Digital Garden/Setup.md",
-    "Digital Garden/Portfolio/Design.md",
-    "SpringBoot/Spring.md",
-    "CN-All Hand Script.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Machine Learning/Pandas.md",
-    "Python/Cheetsheet.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "SpringBoot",
-    "Database/Bitcask Storage Engine.md",
-    "Machine Learning/Conda.md",
-    "assets/images/machine_learning/pandas-anatomy-of-a-dataframe.png",
-    "assets/images/machine_learning/serieas_dataframe.png",
-    "Machine Learning/Basics.md",
-    "Machine Learning/Framework.md",
-    "assets/images/machine_learning/ai_ml_data.png",
-    "Database/MongoDB/CheetSheet.md",
-    "Python",
-    "AWS",
-    "Database/MongoDB/Certification.md",
-    "GDPR & CCPA/MongoDB Architecture.md",
-    "GDPR & CCPA/Basics GDPR.md",
-    "assets/images/database",
-    "assets/images/database/mongo_certification-syllabus.png",
-    "assets/images/machine_learning/ml_tools.png",
-    "assets/images/machine_learning/model_fitting.png",
-    "assets/images/machine_learning/model_fitting_graph.png",
-    "assets/images/machine_learning/tunning.png",
-    "assets/images/machine_learning/sub-features.png",
-    "assets/images/machine_learning/features.png",
-    "assets/images/machine_learning/ml_framework.png.sb-9e81dd1b-owbv92",
-    "Docuseries and Books/The Mind - Explained.md",
-    "assets/images/machine_learning",
-    "Machine Learning",
-    "Git/Git Tricks.md",
-    "Angular/RxJs.md",
-    "lad.md"
+    "SpringBoot"
   ]
 }
